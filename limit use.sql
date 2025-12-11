@@ -1,0 +1,1 @@
+SELECT * FROM `ecommerce dataset`.customer limit 5;

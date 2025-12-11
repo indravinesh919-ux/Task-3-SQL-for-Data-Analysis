@@ -1,0 +1,8 @@
+product_id,product_name,category,price
+1,Smartphone,Electronics,15000
+2,Laptop,Electronics,55000
+3,Headphones,Electronics,2000
+4,Shoes,Fashion,2500
+5,Tshirt,Fashion,800
+6,Refrigerator,HomeAppliances,32000
+
